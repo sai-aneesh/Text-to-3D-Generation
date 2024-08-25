@@ -2,7 +2,7 @@
 ![block](./images/intro.png)
 
 ## CSE 252D: Advanced Computer Vision, Course Project, Spring 2024
-### Team : Nara Guru Naryanaswamy, Sai Aneesh Suryadevara, Saketh Madhuvarusu,  Aniket Gupta
+### Team : Sai Aneesh Suryadevara, Nara Guru Naryanaswamy
 
 ### Prompt: "A sparkling Diamond Tiara"
 ![block](./images/tiara.gif)
