@@ -2,10 +2,9 @@
 ![block](./images/intro.png)
 
 ## CSE 252D: Advanced Computer Vision, Course Project, Spring 2024
-### Team : Sai Aneesh Suryadevara, Nara Guru Naryanaswamy
-
 ### Prompt: "A sparkling Diamond Tiara"
 ![block](./images/tiara.gif)
+![block](./images/diamond.gif)
 
 
 ## 🏁 Get Started
